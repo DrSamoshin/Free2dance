@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "title": "Enjoy your movements",
+        "description": "Enjoy your time for dancing with our free app",
+        "image": "onboarding_1_large"
+    },
+    {
+        "id": 1,
+        "title": "Let’s get you fit",
+        "description": "If you ready to dance, we can help you achieve your goal",
+        "image": "onboarding_2_large"
+    }
+]

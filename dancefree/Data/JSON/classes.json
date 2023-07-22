@@ -1,0 +1,164 @@
+[
+    {
+        "id": "latin",
+        "title": "Latin Dance",
+        "description": "",
+        "duration_minutes": "~50",
+        "image": "latin_class_1_large",
+        "videos": [
+            {
+                "id": 1,
+                "title": "the Rhythm is within Me",
+                "description": "",
+                "duration_minutes": "06:35",
+                "image_large": "latin_lesson_1_large",
+                "image_small": "latin_lesson_1_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Latin_lesson_1.mp4"
+            },
+            {
+                "id": 2,
+                "title": "Grace and Confidence",
+                "description": "",
+                "duration_minutes": "06:50",
+                "image_large": "latin_lesson_2_large",
+                "image_small": "latin_lesson_2_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Latin_lesson_2.mp4"
+            },
+            {
+                "id": 3,
+                "title": "Emotion through Dance",
+                "description": "",
+                "duration_minutes": "05:30",
+                "image_large": "latin_lesson_3_large",
+                "image_small": "latin_lesson_3_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Latin_lesson_3.mp4"
+            },
+            {
+                "id": 4,
+                "title": "Connection to Music",
+                "description": "",
+                "duration_minutes": "05:45",
+                "image_large": "latin_lesson_4_large",
+                "image_small": "latin_lesson_4_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Latin_lesson_4.mp4"
+            },
+            {
+                "id": 5,
+                "title": "the Beauty of Dance",
+                "description": "",
+                "duration_minutes": "06:00",
+                "image_large": "latin_lesson_5_large",
+                "image_small": "latin_lesson_5_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Latin_lesson_5.mp4"
+            },
+            {
+                "id": 6,
+                "title": "Joy and Passion",
+                "description": "",
+                "duration_minutes": "06:40",
+                "image_large": "latin_lesson_6_large",
+                "image_small": "latin_lesson_6_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Latin_lesson_6.mp4"
+            },
+            {
+                "id": 7,
+                "title": "the Spirit of Dance",
+                "description": "",
+                "duration_minutes": "08:10",
+                "image_large": "latin_lesson_7_large",
+                "image_small": "latin_lesson_7_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Latin_lesson_7.mp4"
+            },
+            {
+                "id": 8,
+                "title": "Energize your Moves",
+                "description": "",
+                "duration_minutes": "06:55",
+                "image_large": "latin_lesson_8_large",
+                "image_small": "latin_lesson_8_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Latin_lesson_8.mp4"
+            }
+        ]
+    },
+    {
+        "id": "strip",
+        "title": "Strip",
+        "description": "",
+        "duration_minutes": "~10",
+        "image": "strip_class_1_large",
+        "videos": [
+            {
+                "id": 1,
+                "title": "the Hottest Moves",
+                "description": "",
+                "duration_minutes": "05:15",
+                "image_large": "strip_lesson_1_large",
+                "image_small": "strip_lesson_1_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Strip_video_1.mp4"
+            },
+            {
+                "id": 2,
+                "title": "Expressive Elegance",
+                "description": "",
+                "duration_minutes": "04:15",
+                "image_large": "strip_lesson_2_large",
+                "image_small": "strip_lesson_2_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Strip_video_2.mp4"
+            }
+        ]
+    },
+    {
+        "id": "conte",
+        "title": "Contemporary",
+        "description": "",
+        "duration_minutes": "~8",
+        "image": "conte_class_1_large",
+        "videos": [
+            {
+                "id": 1,
+                "title": "Exploring Fluidity and Expression",
+                "description": "",
+                "duration_minutes": "08:05",
+                "image_large": "conte_lesson_1_large",
+                "image_small": "conte_lesson_1_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/%D0%A1onte_lesson_1.mp4"
+            }
+        ]
+    },
+    {
+        "id": "twerk",
+        "title": "Twerk",
+        "description": "",
+        "duration_minutes": "~16",
+        "image": "twerk_class_1_large",
+        "videos": [
+            {
+                "id": 1,
+                "title": "Dance Like Nobody's Watching",
+                "description": "",
+                "duration_minutes": "05:40",
+                "image_large": "twerk_lesson_1_large",
+                "image_small": "twerk_lesson_1_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Twerk_lesson_1.mp4"
+            },
+            {
+                "id": 2,
+                "title": "Elevate with Every Step",
+                "description": "",
+                "duration_minutes": "04:55",
+                "image_large": "twerk_lesson_2_large",
+                "image_small": "twerk_lesson_2_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Twerk_lesson_2.mp4"
+            },
+            {
+                "id": 3,
+                "title": "Express Yourself Through Every Movement",
+                "description": "",
+                "duration_minutes": "05:30",
+                "image_large": "twerk_lesson_3_large",
+                "image_small": "twerk_lesson_3_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Twerk_lesson_3.mp4"
+            }
+        ]
+    }
+]

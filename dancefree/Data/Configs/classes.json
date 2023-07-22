@@ -1,0 +1,200 @@
+[
+    {
+        "id": "latin",
+        "title": "Latin",
+        "description": "",
+        "duration_minutes": "55",
+        "image": "latin_class_1_large",
+        "videos": [
+            {
+                "id": 1,
+                "title": "First lesson",
+                "description": "",
+                "duration_minutes": "10",
+                "image_large": "latin_lesson_1_large",
+                "image_small": "latin_lesson_1_small",
+                "video_link": "latin_video_1"
+            },
+            {
+                "id": 2,
+                "title": "Second lesson",
+                "description": "",
+                "duration_minutes": "10",
+                "image_large": "latin_lesson_2_large",
+                "image_small": "latin_lesson_2_small",
+                "video_link": "latin_video_2"
+            },
+            {
+                "id": 3,
+                "title": "Third lesson",
+                "description": "",
+                "duration_minutes": "10",
+                "image_large": "latin_lesson_3_large",
+                "image_small": "latin_lesson_3_small",
+                "video_link": "latin_video_3"
+            },
+            {
+                "id": 4,
+                "title": "Fourth lesson",
+                "description": "",
+                "duration_minutes": "10",
+                "image_large": "latin_lesson_4_large",
+                "image_small": "latin_lesson_4_small",
+                "video_link": "latin_video_4"
+            },
+            {
+                "id": 5,
+                "title": "Fifth lesson",
+                "description": "",
+                "duration_minutes": "10",
+                "image_large": "latin_lesson_5_large",
+                "image_small": "latin_lesson_5_small",
+                "video_link": "latin_video_5"
+            },
+            {
+                "id": 6,
+                "title": "Sixth lesson",
+                "description": "",
+                "duration_minutes": "10",
+                "image_large": "latin_lesson_6_large",
+                "image_small": "latin_lesson_6_small",
+                "video_link": "latin_video_6"
+            },
+            {
+                "id": 7,
+                "title": "Seventh lesson",
+                "description": "",
+                "duration_minutes": "10",
+                "image_large": "latin_lesson_7_large",
+                "image_small": "latin_lesson_7_small",
+                "video_link": "latin_video_7"
+            },
+            {
+                "id": 8,
+                "title": "Eighth lesson",
+                "description": "",
+                "duration_minutes": "10",
+                "image_large": "latin_lesson_8_large",
+                "image_small": "latin_lesson_8_small",
+                "video_link": "latin_video_8"
+            },
+            {
+                "id": 9,
+                "title": "Ninth lesson",
+                "description": "",
+                "duration_minutes": "10",
+                "image_large": "latin_lesson_9_large",
+                "image_small": "latin_lesson_9_small",
+                "video_link": "latin_video_9"
+            },
+            {
+                "id": 10,
+                "title": "Tenth lesson",
+                "description": "",
+                "duration_minutes": "10",
+                "image_large": "latin_lesson_10_large",
+                "image_small": "latin_lesson_10_small",
+                "video_link": "latin_video_10"
+            },
+            {
+                "id": 11,
+                "title": "Eleventh lesson",
+                "description": "",
+                "duration_minutes": "10",
+                "image_large": "latin_lesson_11_large",
+                "image_small": "latin_lesson_11_small",
+                "video_link": "latin_video_11"
+            },
+            {
+                "id": 12,
+                "title": "Twelfth lesson",
+                "description": "",
+                "duration_minutes": "10",
+                "image_large": "latin_lesson_12_large",
+                "image_small": "latin_lesson_12_small",
+                "video_link": "latin_video_12"
+            }
+        ]
+    },
+    {
+        "id": "strip",
+        "title": "Strip",
+        "description": "",
+        "duration_minutes": "~10",
+        "image": "strip_class_1_large",
+        "videos": [
+            {
+                "id": 1,
+                "title": "the Hottest Moves",
+                "description": "",
+                "duration_minutes": "05:15",
+                "image_large": "strip_lesson_1_large",
+                "image_small": "strip_lesson_1_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Strip_video_1.mp4"
+            },
+            {
+                "id": 2,
+                "title": "Expressive Elegance",
+                "description": "",
+                "duration_minutes": "04:15",
+                "image_large": "strip_lesson_2_large",
+                "image_small": "strip_lesson_2_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Strip_video_2.mp4"
+            }
+        ]
+    },
+    {
+        "id": "conte",
+        "title": "Contemporary",
+        "description": "",
+        "duration_minutes": "~8",
+        "image": "conte_class_1_large",
+        "videos": [
+            {
+                "id": 1,
+                "title": "Exploring Fluidity and Expression",
+                "description": "",
+                "duration_minutes": "08:05",
+                "image_large": "conte_lesson_1_large",
+                "image_small": "conte_lesson_1_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/%D0%A1onte_lesson_1.mp4"
+            }
+        ]
+    },
+    {
+        "id": "twerk",
+        "title": "Twerk",
+        "description": "",
+        "duration_minutes": "~16",
+        "image": "twerk_class_1_large",
+        "videos": [
+            {
+                "id": 1,
+                "title": "Dance Like Nobody's Watching",
+                "description": "",
+                "duration_minutes": "05:40",
+                "image_large": "twerk_lesson_1_large",
+                "image_small": "twerk_lesson_1_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Twerk_lesson_1.mp4"
+            },
+            {
+                "id": 2,
+                "title": "Elevate with Every Step",
+                "description": "",
+                "duration_minutes": "04:55",
+                "image_large": "twerk_lesson_2_large",
+                "image_small": "twerk_lesson_2_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Twerk_lesson_2.mp4"
+            },
+            {
+                "id": 3,
+                "title": "Express Yourself Through Every Movement",
+                "description": "",
+                "duration_minutes": "05:30",
+                "image_large": "twerk_lesson_3_large",
+                "image_small": "twerk_lesson_3_small",
+                "video_link": "https://storage.googleapis.com/dancefreeapp/Twerk_lesson_3.mp4"
+            }
+        ]
+    }
+]
