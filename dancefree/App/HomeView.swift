@@ -32,7 +32,7 @@ struct HomeView: View {
                     ClassHeaderView(class_: classes[lastDisplayedClass])
                         .padding([.top, .horizontal], 21)
                     LessonsTabView(class_: classes[lastDisplayedClass], isShowPlayer: $isShowPlayer, videoLink: $videoLink, tag: $tag)
-                        .frame(height: 510)
+                        .frame(height: 540)
                     Text("Continue to explore your movement potential")
                         .font(.title)
                         .fontWeight(.light)
