@@ -21,15 +21,17 @@ struct LessonsTabView: View {
             TabView(selection: $tag) {
                 ForEach(class_.videos) { video in
                     VideoCardView(video: video)
+                        
                     .onTapGesture {
                         isShowPlayer = true
                         videoLink = video.video_link
                     } //: TAB
+                    
                 } //: LOOP
             } //: TABVIEW
             .tabViewStyle(PageTabViewStyle())
         } //: VSTACK
-        .padding(.horizontal, 18)
+//        .padding(.horizontal, 18)
     }
 }
 

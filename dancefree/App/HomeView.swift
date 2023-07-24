@@ -30,15 +30,17 @@ struct HomeView: View {
                 Divider().opacity(0)
                 ScrollView(.vertical, showsIndicators: false) {
                     ClassHeaderView(class_: classes[lastDisplayedClass])
-                        .padding([.top, .horizontal], 21)
+                        .padding([.top, .horizontal], 18)
                     LessonsTabView(class_: classes[lastDisplayedClass], isShowPlayer: $isShowPlayer, videoLink: $videoLink, tag: $tag)
                         .frame(height: 540)
+                        
                     Text("Continue to explore your movement potential")
                         .font(.title)
                         .fontWeight(.light)
                         .multilineTextAlignment(.center)
                         .padding(.vertical, 30)
                 } //: SCROLL
+                
                 .sheet(isPresented: $isShowPlayer) {
                     VideoPlayerView()
                 }

@@ -53,9 +53,12 @@ struct VideoCardView: View {
             .padding(6)
             .padding(.bottom, 45)
         } //: ZSTACK
-        .frame(height: 540)
         .cornerRadius(15)
-        .padding(.horizontal, 3)
+        .padding(.horizontal, 21)
+        .frame(height: 540)
+        
+        
+        
         
     }
 }
