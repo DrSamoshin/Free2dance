@@ -47,7 +47,7 @@
 		649677AA2A4202BE00F032F0 /* MailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MailView.swift; sourceTree = "<group>"; };
 		649677AD2A4207BF00F032F0 /* MailConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MailConfiguration.swift; sourceTree = "<group>"; };
 		649677AF2A420A4A00F032F0 /* UIDevice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIDevice.swift; sourceTree = "<group>"; };
-		64B749512A3CE013009D6EF2 /* dancefree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dancefree.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		64B749512A3CE013009D6EF2 /* Dances.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dances.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		64B749542A3CE013009D6EF2 /* dancefreeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = dancefreeApp.swift; path = ../dancefreeApp.swift; sourceTree = "<group>"; };
 		64B749582A3CE013009D6EF2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		64B7495B2A3CE013009D6EF2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -110,7 +110,7 @@
 		64B749482A3CE013009D6EF2 = {
 			isa = PBXGroup;
 			children = (
-				64B749532A3CE013009D6EF2 /* dancefree */,
+				64B749532A3CE013009D6EF2 /* Dances */,
 				64B749522A3CE013009D6EF2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -118,12 +118,12 @@
 		64B749522A3CE013009D6EF2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				64B749512A3CE013009D6EF2 /* dancefree.app */,
+				64B749512A3CE013009D6EF2 /* Dances.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		64B749532A3CE013009D6EF2 /* dancefree */ = {
+		64B749532A3CE013009D6EF2 /* Dances */ = {
 			isa = PBXGroup;
 			children = (
 				641FA3332A49A2C100EB8C54 /* Utility */,
@@ -138,7 +138,7 @@
 				64B749582A3CE013009D6EF2 /* Assets.xcassets */,
 				64B7495A2A3CE013009D6EF2 /* Preview Content */,
 			);
-			path = dancefree;
+			path = Dances;
 			sourceTree = "<group>";
 		};
 		64B7495A2A3CE013009D6EF2 /* Preview Content */ = {
@@ -271,9 +271,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		64B749502A3CE013009D6EF2 /* dancefree */ = {
+		64B749502A3CE013009D6EF2 /* Dances */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 64B7495F2A3CE013009D6EF2 /* Build configuration list for PBXNativeTarget "dancefree" */;
+			buildConfigurationList = 64B7495F2A3CE013009D6EF2 /* Build configuration list for PBXNativeTarget "Dances" */;
 			buildPhases = (
 				64B7494D2A3CE013009D6EF2 /* Sources */,
 				64B7494E2A3CE013009D6EF2 /* Frameworks */,
@@ -283,11 +283,11 @@
 			);
 			dependencies = (
 			);
-			name = dancefree;
+			name = Dances;
 			packageProductDependencies = (
 			);
 			productName = dancefree;
-			productReference = 64B749512A3CE013009D6EF2 /* dancefree.app */;
+			productReference = 64B749512A3CE013009D6EF2 /* Dances.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -320,7 +320,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				64B749502A3CE013009D6EF2 /* dancefree */,
+				64B749502A3CE013009D6EF2 /* Dances */,
 			);
 		};
 /* End PBXProject section */
@@ -501,12 +501,12 @@
 				CODE_SIGN_ENTITLEMENTS = dancefree/dancefree.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2;
-				DEVELOPMENT_ASSET_PATHS = "\"dancefree/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Dances/Preview Content\"";
 				DEVELOPMENT_TEAM = AWDSZNV22L;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = dancefree/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Free2Dance;
+				INFOPLIST_KEY_CFBundleDisplayName = Dances;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -538,12 +538,12 @@
 				CODE_SIGN_ENTITLEMENTS = dancefree/dancefree.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2;
-				DEVELOPMENT_ASSET_PATHS = "\"dancefree/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Dances/Preview Content\"";
 				DEVELOPMENT_TEAM = AWDSZNV22L;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = dancefree/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Free2Dance;
+				INFOPLIST_KEY_CFBundleDisplayName = Dances;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -579,7 +579,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		64B7495F2A3CE013009D6EF2 /* Build configuration list for PBXNativeTarget "dancefree" */ = {
+		64B7495F2A3CE013009D6EF2 /* Build configuration list for PBXNativeTarget "Dances" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				64B749602A3CE013009D6EF2 /* Debug */,
